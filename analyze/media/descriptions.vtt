@@ -2,9 +2,14 @@ WEBVTT
 
 NOTE
 Descriptions for the Responsive Web Design Video
-Student Name:
+Student Name: Suzanne Lucas
 File Name: descriptions.vtt
-Date: 
+Date: 04/10/2024
 
 1
 00:00.000 --> 00:28.000
+Responsive Web Design is essential for today so websites can handle the many differents size screens of devices.
+Larger screens provide more information while smaller screens provide less. Regardless of size, the layout for Dekstop,
+Tablet, and Mobile devices is a bit different and should be planning in a Wire frame to show what content and how much should show in 
+each viewport.
+

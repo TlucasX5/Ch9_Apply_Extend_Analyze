@@ -2,6 +2,34 @@ WEBVTT
 
 NOTE
 Captions for Responsive Web Design Video
-Student Name:
+Student Name: Suzanne Lucas
 File Name: captions.vtt
-Date: 
+Date: 04/10/2024
+
+1
+00:01.000 --> 00.02.000
+This is a Desktop Viewport.
+
+2
+00:03.000 --> 00.04.000
+This is a Tablet Viewport.
+
+3
+00:05.000 --> 00.06.000
+This is a Mobile device Viewport.
+
+4
+00:08.000 --> 00.12.000
+This is how to create a wire frame for desktop viewports.
+
+5
+00:13.000 --> 00.18.000
+This is hoe to create a wire frame for a tablet viewport.
+
+6
+00.19.000 --> 00.23.000
+This is how to create a wire frame for a mobile viewport.
+
+7
+00:23.000 --> 00.30.000
+The information seen by the user depends on the viewport size. Responsive Web Design is essential in todays world.
